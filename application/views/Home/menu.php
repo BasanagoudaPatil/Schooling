@@ -5,7 +5,7 @@
     <section class="sidebar">
       <!-- sidebar menu: : style can be found in sidebar.less -->
       <ul class="sidebar-menu" data-widget="tree"> 
-        <li><a href="<?php echo base_url()?>Dashboard/index"><i class="fa fa-circle-o"></i><span>Dashboard</span> </a></li>
+        <li><a href="<?php echo base_url()?>index/Dashboard/index"><i class="fa fa-circle-o"></i><span>Dashboard</span> </a></li>
 		<li><a href="<?php echo base_url()?>Project/grid_view"><i class="fa fa-tags"></i> <span>Notifications</span></a></li>
 		<li><a href="<?php echo base_url()?>Students/grid_view"><i class="fa fa-address-card-o"></i> <span>Students</span></a></li>
 		<li><a href="<?php echo base_url()?>Teachers/grid_view"><i class="fa fa-user-secret"></i> <span>Teachers</span></a></li>
